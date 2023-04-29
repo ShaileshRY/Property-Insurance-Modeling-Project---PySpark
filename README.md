@@ -1,4 +1,4 @@
-# Property-Insurance-Modelling-Project---PySpark
+# Property-Insurance-Modeling-Project---PySpark
 
 This dataset comes from the 2022 NESS Statathon (Theme 1) from 2022.
 
